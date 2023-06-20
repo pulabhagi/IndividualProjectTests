@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ts2D+E9LsdHRwnn7essF3vwuguF+j7ItwtlgrdQOOoSttqkkJIrAbswCkbB/HcieCYAkOLnY7BQIbxTC7r1dQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skota2\\source\\repos\\Test\\ImportFunction\\ImportFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skota2\\.nuget\\packages\\ipnetwork2\\2.6.589\\ipnetwork2.2.6.589.nupkg.sha512"
+  ],
+  "logs": []
+}

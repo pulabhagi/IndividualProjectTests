@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHVGsc7U3/Y1g2Si5Pd/3qV4ECm22oVB5qQwuVveZYWhASpYpAdAfPCWgB1nAE2vw03cX9K99lNAQ99LixE2/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skota2\\source\\repos\\Test\\IPFiltering\\IPFiltering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skota2\\.nuget\\packages\\ipnetwork2\\2.6.589\\ipnetwork2.2.6.589.nupkg.sha512"
+  ],
+  "logs": []
+}

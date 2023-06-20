@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "IPNetwork2/2.6.589": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Net.IPNetwork.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Net.IPNetwork.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "IPFiltering/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "IPNetwork2": "2.6.589"
+        },
+        "compile": {
+          "bin/placeholder/IPFiltering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IPFiltering.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPNetwork2/2.6.589": {
+      "sha512": "uRYzoXBVoYJiyKa2b9Xeu+7DGlvIDSaQjBvocZBf9VRmsm8UqzxL/l4OrFArGF0/q0qe3dzWSFVGKjVI3XWOLA==",
+      "type": "package",
+      "path": "ipnetwork2/2.6.589",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "ipnetwork2.2.6.589.nupkg.sha512",
+        "ipnetwork2.nuspec",
+        "lib/net462/System.Net.IPNetwork.dll",
+        "lib/net462/System.Net.IPNetwork.xml",
+        "lib/net47/System.Net.IPNetwork.dll",
+        "lib/net47/System.Net.IPNetwork.xml",
+        "lib/net48/System.Net.IPNetwork.dll",
+        "lib/net48/System.Net.IPNetwork.xml",
+        "lib/net6.0/System.Net.IPNetwork.dll",
+        "lib/net6.0/System.Net.IPNetwork.xml",
+        "lib/netcoreapp3.1/System.Net.IPNetwork.dll",
+        "lib/netcoreapp3.1/System.Net.IPNetwork.xml",
+        "lib/netstandard2.0/System.Net.IPNetwork.dll",
+        "lib/netstandard2.0/System.Net.IPNetwork.xml",
+        "lib/netstandard2.1/System.Net.IPNetwork.dll",
+        "lib/netstandard2.1/System.Net.IPNetwork.xml"
+      ]
+    },
+    "IPFiltering/1.0.0": {
+      "type": "project",
+      "path": "../IPFiltering/IPFiltering.csproj",
+      "msbuildProject": "../IPFiltering/IPFiltering.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "IPFiltering >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\skota2\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\skota2\\source\\repos\\Test\\ImportFunction\\ImportFunction.csproj",
+      "projectName": "ImportFunction",
+      "projectPath": "C:\\Users\\skota2\\source\\repos\\Test\\ImportFunction\\ImportFunction.csproj",
+      "packagesPath": "C:\\Users\\skota2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\skota2\\source\\repos\\Test\\ImportFunction\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\skota2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\skota2\\source\\repos\\Test\\IPFiltering\\IPFiltering.csproj": {
+              "projectPath": "C:\\Users\\skota2\\source\\repos\\Test\\IPFiltering\\IPFiltering.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7SNlmMXHdVSwHM08NZ2IGwHUfhB/DUoAiRgHg4DhpvlqbuQpqx/h8EH8SomsmV2cmJ1BeIkdrrS+X/dN2rz5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skota2\\source\\repos\\Test\\Anagram\\Anagram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skota2\\.nuget\\packages\\ipnetwork2\\2.6.589\\ipnetwork2.2.6.589.nupkg.sha512"
+  ],
+  "logs": []
+}

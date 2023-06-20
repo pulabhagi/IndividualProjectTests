@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ImportFunction/1.0.0": {
+        "dependencies": {
+          "IPFiltering": "1.0.0"
+        },
+        "runtime": {
+          "ImportFunction.dll": {}
+        }
+      },
+      "IPNetwork2/2.6.589": {
+        "runtime": {
+          "lib/net6.0/System.Net.IPNetwork.dll": {
+            "assemblyVersion": "2.6.589.0",
+            "fileVersion": "2.6.589.0"
+          }
+        }
+      },
+      "IPFiltering/1.0.0": {
+        "dependencies": {
+          "IPNetwork2": "2.6.589"
+        },
+        "runtime": {
+          "IPFiltering.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImportFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPNetwork2/2.6.589": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uRYzoXBVoYJiyKa2b9Xeu+7DGlvIDSaQjBvocZBf9VRmsm8UqzxL/l4OrFArGF0/q0qe3dzWSFVGKjVI3XWOLA==",
+      "path": "ipnetwork2/2.6.589",
+      "hashPath": "ipnetwork2.2.6.589.nupkg.sha512"
+    },
+    "IPFiltering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

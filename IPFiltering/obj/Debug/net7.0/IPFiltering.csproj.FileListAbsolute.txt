@@ -1,0 +1,17 @@
+C:\Users\skota2\source\repos\Test\IPFiltering\bin\Debug\net7.0\IPFiltering.exe
+C:\Users\skota2\source\repos\Test\IPFiltering\bin\Debug\net7.0\IPFiltering.deps.json
+C:\Users\skota2\source\repos\Test\IPFiltering\bin\Debug\net7.0\IPFiltering.runtimeconfig.json
+C:\Users\skota2\source\repos\Test\IPFiltering\bin\Debug\net7.0\IPFiltering.dll
+C:\Users\skota2\source\repos\Test\IPFiltering\bin\Debug\net7.0\IPFiltering.pdb
+C:\Users\skota2\source\repos\Test\IPFiltering\bin\Debug\net7.0\System.Net.IPNetwork.dll
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.csproj.AssemblyReference.cache
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.AssemblyInfoInputs.cache
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.AssemblyInfo.cs
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.csproj.CoreCompileInputs.cache
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.csproj.CopyComplete
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.dll
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\refint\IPFiltering.dll
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.pdb
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\IPFiltering.genruntimeconfig.cache
+C:\Users\skota2\source\repos\Test\IPFiltering\obj\Debug\net7.0\ref\IPFiltering.dll
